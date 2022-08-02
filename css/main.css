@@ -1,5 +1,5 @@
 .navbar {
-	background:#F97300;
+	background:#0C120C;
 }
 
 .nav-link , .navbar-brand{
@@ -13,7 +13,7 @@
 
 .nav-link:hover{
 	background: #f4f4f4;
-	color: #f97300;
+	color: #0C120C;
 }
 
 .navbar-collapse{
@@ -41,7 +41,7 @@
 	background-image: url('../images/header.jpg');
 	background-attachment: fixed;
 	background-size: cover;
-	background-position: center;s
+	background-position: center;
 }
 
 .overlay{
@@ -61,19 +61,20 @@
 }
 
 .description h1{
-	color:#F97300;
+	color:#0C120C;
+	margin-bottom: 5px;
 }
 
 .description p{
-	color:#666;
+	color:#5e5e5e;
 	font-size: 20px;
 	width: 50%;
 	line-height: 1.5;
 }
 
 .description button{
-	border:1px solid #F97300;
-	background:#F97300;
+	border:1px solid #0C120C;
+	background:#0C120C;
 	color:#fff;
 }
 
@@ -84,7 +85,7 @@
 }
 
 .row h1{
-	color:#F97300;
+	color:#0C120C;
 	margin: 2em;
 }
 
@@ -108,7 +109,7 @@
 
 .row .desc{
 	padding: 2em;
-	border-left:4px solid #10828C;
+	border-left:4px solid #383D3C;
 }
 
 .row .desc h3{
@@ -117,14 +118,14 @@
 
 .row .desc p{
 	line-height:2;
-	color:#888;
+	color:#5e5e5e;
 }
 .portfolio{
 	margin: 4em 0;
 	position: relative;
 }
 .portfolio h1{
-	color:#F97300;
+	color:#0C120C;
 	margin: 2em;
 }
 .portfolio img{
@@ -138,7 +139,7 @@
 	position: relative;
 }
 .blog h1{
-	color:#F97300;
+	color:#0C120C;
 	margin: 2em;
 }
 .blog .card{
@@ -149,7 +150,7 @@
 	height: 12em;
 }
 .blog .card-title{
-	color:#F97300;
+	color:#0C120C;
 }
 .blog .card-body{
 	padding: 1em;
@@ -160,14 +161,14 @@
 	position: relative;
 }
 .team h1{
-	color:#F97300;
+	color:#0C120C;
 	margin: 2em;
 }
 .team .item{
 	position: relative;
 }
 .team .des{
-	background: #F97300;
+	background: #0C120C;
 	color: #fff;
 	text-align: center;
 	border-bottom-left-radius: 93%;
@@ -176,7 +177,7 @@
 
 .team .item:hover .des{
 	height: 100%;
-	background:#f973007d;
+	background:#0C120C7d;
 	position: absolute;
 	width: 89%;
 	display: flex;
@@ -191,13 +192,13 @@
 	position: relative;
 }
 .contact-form h1{
-	color: #F97300;
+	color: #0C120C;
 }
 .contact-form .right{
 	max-width: 600px;
 }
 .contact-form .right .btn-secondary{
-		background: #F97300;
+		background: #0C120C;
 	color: #fff;
 	border:0;
 }
@@ -217,7 +218,7 @@
 }
 
 .gen-cont h1 {
-	color: #f97300;
+	color: #0C120C;
 	margin: 2em;
 }
 
@@ -226,7 +227,7 @@
 }
 
 .generator .gen-cont .btn-secondary {
-	background: #F97300;
+	background: #0C120C;
 	border: 0;
 	color: white;
 }
